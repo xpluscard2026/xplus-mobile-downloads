@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "android": {
-    "build": 8,
-    "version": "0.8.0",
-    "notes": "إصدار أندرويد تجريبي بتوقيع ثابت، وتحسين قناة التحديثات.",
-    "url": "https://github.com/xpluscard2026/xplus-mobile-downloads/releases/download/v0.8.0/XPLUS-Android.apk"
+    "build": 9,
+    "version": "0.9.0",
+    "notes": "اختبار ترقية التطبيق بالتوقيع الثابت مع الحفاظ على جلسة تسجيل الدخول. العمليات المالية ما زالت معطلة.",
+    "url": "https://github.com/xpluscard2026/xplus-mobile-downloads/releases/download/v0.9.0/XPLUS-Android.apk"
   }
 }
