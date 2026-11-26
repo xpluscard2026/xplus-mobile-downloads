@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "android": {
-    "build": 9,
-    "version": "0.9.0",
-    "notes": "اختبار ترقية التطبيق بالتوقيع الثابت مع الحفاظ على جلسة تسجيل الدخول. العمليات المالية ما زالت معطلة.",
-    "url": "https://github.com/xpluscard2026/xplus-mobile-downloads/releases/download/v0.9.0/XPLUS-Android.apk"
+    "build": 10,
+    "version": "0.10.0",
+    "notes": "تفعيل اختياري لإشعارات المتجر العامة عبر Firebase. العمليات المالية ما زالت معطلة.",
+    "url": "https://github.com/xpluscard2026/xplus-mobile-downloads/releases/download/v0.10.0/XPLUS-Android.apk"
   }
 }
